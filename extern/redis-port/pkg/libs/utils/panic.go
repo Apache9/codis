@@ -9,8 +9,8 @@ import (
 	"log"
 	"strings"
 
-	"github.com/wandoulabs/codis/extern/redis-port/pkg/libs/errors"
-	"github.com/wandoulabs/codis/extern/redis-port/pkg/libs/trace"
+	"github.com/Apache9/codis/extern/redis-port/pkg/libs/errors"
+	"github.com/Apache9/codis/extern/redis-port/pkg/libs/trace"
 )
 
 func Panic(format string, v ...interface{}) {

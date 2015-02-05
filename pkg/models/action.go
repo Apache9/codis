@@ -13,7 +13,7 @@ import (
 	"time"
 
 	"github.com/ngaut/zkhelper"
-	"github.com/wandoulabs/codis/pkg/utils"
+	"github.com/Apache9/codis/pkg/utils"
 
 	"github.com/juju/errors"
 	"github.com/ngaut/go-zookeeper/zk"

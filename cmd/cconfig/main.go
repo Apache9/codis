@@ -14,7 +14,7 @@ import (
 
 	"github.com/ngaut/go-zookeeper/zk"
 	"github.com/ngaut/zkhelper"
-	"github.com/wandoulabs/codis/pkg/utils"
+	"github.com/Apache9/codis/pkg/utils"
 
 	"net/http"
 	_ "net/http/pprof"

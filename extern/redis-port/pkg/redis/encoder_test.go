@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/wandoulabs/codis/extern/redis-port/pkg/libs/tests"
+	"github.com/Apache9/codis/extern/redis-port/pkg/libs/tests"
 )
 
 func TestEncodeString(t *testing.T) {

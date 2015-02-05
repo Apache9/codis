@@ -4,7 +4,7 @@
 package group
 
 import (
-	"github.com/wandoulabs/codis/pkg/models"
+	"github.com/Apache9/codis/pkg/models"
 
 	log "github.com/ngaut/logging"
 )

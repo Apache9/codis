@@ -6,7 +6,7 @@ package ioutils
 import (
 	"io"
 
-	"github.com/wandoulabs/codis/extern/redis-port/pkg/libs/errors"
+	"github.com/Apache9/codis/extern/redis-port/pkg/libs/errors"
 )
 
 func ReadFull(r io.Reader, p []byte) (int, error) {

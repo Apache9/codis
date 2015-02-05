@@ -10,8 +10,8 @@ import (
 	"time"
 
 	"github.com/docopt/docopt-go"
-	"github.com/wandoulabs/codis/extern/redis-port/pkg/libs/utils"
-	"github.com/wandoulabs/codis/extern/redis-port/pkg/libs/utils/bytesize"
+	"github.com/Apache9/codis/extern/redis-port/pkg/libs/utils"
+	"github.com/Apache9/codis/extern/redis-port/pkg/libs/utils/bytesize"
 )
 
 var args struct {

@@ -10,7 +10,7 @@ import (
 
 	"github.com/ngaut/zkhelper"
 
-	"github.com/wandoulabs/codis/pkg/models"
+	"github.com/Apache9/codis/pkg/models"
 
 	"github.com/juju/errors"
 	topo "github.com/ngaut/go-zookeeper/zk"

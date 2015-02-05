@@ -10,8 +10,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/wandoulabs/codis/pkg/models"
-	"github.com/wandoulabs/codis/pkg/utils"
+	"github.com/Apache9/codis/pkg/models"
+	"github.com/Apache9/codis/pkg/utils"
 
 	"github.com/go-martini/martini"
 	"github.com/nu7hatch/gouuid"

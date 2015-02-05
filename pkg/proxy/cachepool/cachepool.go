@@ -7,7 +7,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/wandoulabs/codis/pkg/proxy/redispool"
+	"github.com/Apache9/codis/pkg/proxy/redispool"
 
 	"github.com/juju/errors"
 )

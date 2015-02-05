@@ -7,8 +7,8 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/wandoulabs/codis/extern/redis-port/pkg/libs/errors"
-	"github.com/wandoulabs/codis/extern/redis-port/pkg/libs/utils"
+	"github.com/Apache9/codis/extern/redis-port/pkg/libs/errors"
+	"github.com/Apache9/codis/extern/redis-port/pkg/libs/utils"
 )
 
 type HandlerFunc func(arg0 interface{}, args ...[]byte) (Resp, error)

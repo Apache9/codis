@@ -12,7 +12,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/wandoulabs/codis/extern/redis-port/pkg/libs/tests"
+	"github.com/Apache9/codis/extern/redis-port/pkg/libs/tests"
 )
 
 func DecodeHexRdb(t *testing.T, s string, n int) map[string]*Entry {

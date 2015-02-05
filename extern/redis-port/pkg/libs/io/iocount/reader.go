@@ -6,7 +6,7 @@ package iocount
 import (
 	"io"
 
-	"github.com/wandoulabs/codis/extern/redis-port/pkg/libs/atomic2"
+	"github.com/Apache9/codis/extern/redis-port/pkg/libs/atomic2"
 )
 
 type Reader struct {
